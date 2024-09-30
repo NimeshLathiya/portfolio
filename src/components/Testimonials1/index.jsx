@@ -82,7 +82,9 @@ class Testimonials1 extends React.Component {
               >
                 <div className="item">
                   <p>
-                  I highly recommend Milan katira for any full-stack development project.Their technical expertise, attention to detail, and problem-solving skills are second to none.
+                    I highly recommend Nimesh Lathiya for any front-end
+                    development project.Their technical expertise, attention to
+                    detail, and problem-solving skills are second to none.
                   </p>
                   <div className="info">
                     <div className="cont">
@@ -91,10 +93,10 @@ class Testimonials1 extends React.Component {
                           <>
                             <div className="fxright">
                               <h6 className="author-name custom-font">
-                              shraddha choudhary
+                                milan katira
                               </h6>
                               <span className="author-details">
-                                Senior software developer,york ie
+                                Senior software engineer,InstaService Inc
                               </span>
                             </div>
                           </>
@@ -117,7 +119,10 @@ class Testimonials1 extends React.Component {
                 </div>
                 <div className="item">
                   <p>
-                  Working with Milan katira was a pleasure. They have a deep understanding of both front-end and back-end development, and were able to deliver a high-quality product within a tight deadline.
+                    Working with Nimesh Lathiya was a pleasure. They have a deep
+                    understanding of front-end development,
+                    and were able to deliver a high-quality product within a
+                    tight deadline.
                   </p>
                   <div className="info">
                     <div className="cont">
@@ -126,10 +131,10 @@ class Testimonials1 extends React.Component {
                           <>
                             <div className="fxright">
                               <h6 className="author-name custom-font">
-                               Bhavik Lotia
+                              Tejas Chauhan
                               </h6>
                               <span className="author-details">
-                              Senior Software engineer,shineinfosoft
+                                Senior Software engineer, Morgan Stanley
                               </span>
                             </div>
                           </>
@@ -152,7 +157,10 @@ class Testimonials1 extends React.Component {
                 </div>
                 <div className="item">
                   <p>
-                  Milan katira is an exceptional full-stack developer. They are able to seamlessly integrate different technologies and platforms to create robust and scalable solutions that meet business needs.
+                    Nimesh Lathiya is an exceptional front-end developer. They
+                    are able to seamlessly integrate different technologies and
+                    platforms to create robust and scalable solutions that meet
+                    business needs.
                   </p>
                   <div className="info">
                     <div className="cont">
@@ -161,10 +169,10 @@ class Testimonials1 extends React.Component {
                           <>
                             <div className="fxright">
                               <h6 className="author-name custom-font">
-                                Rohit Raj
+                              Bhargav Vadhiya
                               </h6>
                               <span className="author-details">
-                              Software engineer,cerebry
+                              Senior Software Engineer,Ksolves India Limited 
                               </span>
                             </div>
                           </>

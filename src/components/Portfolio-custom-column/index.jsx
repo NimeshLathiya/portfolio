@@ -54,7 +54,7 @@ const PortfolioCustomColumn = ({
                 <span data-filter="*" className="active">
                   All
                 </span>
-                <span data-filter=".blockchain">Blockchain</span>
+                <span data-filter=".reactjs">React js </span>
                 <span data-filter=".mobile">Mobile App</span>
                 <span data-filter=".web">Web Development</span>
               </div>
@@ -80,7 +80,10 @@ const PortfolioCustomColumn = ({
                       <img
                         src={item.image}
                         alt="image"
-                        style={{ height: "400px", width: "400px" , objectFit:"contain" }}
+                        style={{
+                         
+                          objectFit: "contain",
+                        }}
                       />
                       <div className="item-img-overlay"></div>
                     </a>

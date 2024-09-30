@@ -21,8 +21,11 @@ const AboutWithSkills = () => {
                 My mission is design develop the best Websites around.
               </h3>
               <p className="wow fadeInUp" data-wow-delay=".5s">
-                Hello! I’m Milan Katira. Web designer from Ahmedabad, india.
-                With extensive experience in website development and a passion for creating innovative digital solutions, I am dedicated to building websites that are not only functional, but also visually striking and user-friendly.
+                Hello! I’m Nimesh Lathiya. Web designer from Ahmedabad, india.
+                With extensive experience in website development and a passion
+                for creating innovative digital solutions, I am dedicated to
+                building websites that are not only functional, but also
+                visually striking and user-friendly.
               </p>
               {/* <a href="/Milan katira-resume.pdf" download 
               className="simple-btn mt-40">
@@ -33,19 +36,21 @@ const AboutWithSkills = () => {
           <div className="col-lg-6 valign">
             <div className="skills-box full-width">
               <div className="skill-item">
-                <h6 className="custom-font">Frontend devlopment</h6>
+                <h6 className="custom-font">React js, Material UI</h6>
                 <div className="skill-progress">
-                  <div className="progres custom-font" data-value="90%"></div>
+                  <div className="progres custom-font" data-value="70%"></div>
                 </div>
               </div>
               <div className="skill-item">
-                <h6 className="custom-font">Backend development</h6>
+                <h6 className="custom-font">JavaScript, jQuery-Plugin</h6>
                 <div className="skill-progress">
-                  <div className="progres custom-font" data-value="95%"></div>
+                  <div className="progres custom-font" data-value="65%"></div>
                 </div>
               </div>
               <div className="skill-item">
-                <h6 className="custom-font">Mobile application development</h6>
+                <h6 className="custom-font">
+                  Html/css, Tailwind CSS, Bootstrap,{" "}
+                </h6>
                 <div className="skill-progress">
                   <div className="progres custom-font" data-value="85%"></div>
                 </div>

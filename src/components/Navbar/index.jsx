@@ -1,9 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
 import Link from "next/link";
-import {
-  handleSearch,
-} from "../../common/navbar";
+import { handleSearch } from "../../common/navbar";
 
 const Navbar = ({ lr, nr, theme }) => {
   React.useEffect(() => {
@@ -18,9 +16,7 @@ const Navbar = ({ lr, nr, theme }) => {
     >
       <div className="container">
         <Link href="/">
-          <a className="logo">
-            MilanKatira
-          </a>
+          <a className="logo">NimeshLathiya</a>
         </Link>
       </div>
     </nav>

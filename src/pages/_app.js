@@ -11,7 +11,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Milan katira </title>
+        <title>Nimesh Lathiya </title>
       </Head>
       <Toaster />
       <Cursor />

@@ -27,7 +27,7 @@ const CallToAction = ({ img, theme, subBG }) => {
 
           <div className="col-md-4 col-lg-3 valign">
             <a
-              href="mailto:milankatira26@gmail.com"
+              href="mailto:nlathiya40@gmail.com"
               target="_blank"
               rel="noopener noreferrer"
               className={`btn-curve ${

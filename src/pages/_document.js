@@ -13,9 +13,9 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
-          <meta name="Milan katira" content="Milan katira portfolio" />
+          <meta name="Nimesh Lathiya" content="Nimesh Lathiya portfolio" />
           <meta name="author" content="" />
-          <link rel="icon" href="/img/favicon.ico" />
+          <link rel="icon" href="/img/n.png" />
 
           <link
             rel="preload"

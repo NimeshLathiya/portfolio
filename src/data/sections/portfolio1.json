@@ -1,28 +1,27 @@
 [
   {
     "id": 1,
-    "image": "/img/portfolio/lyrik.png",
-    "title": "lyriks",
-    "tags": [ "MERN stack"],
-    "filterCategory": ["web"],
-    "link":"https://lyriksmilankatira.netlify.app/"
+    "image": "/img/portfolio/dev_ecommerce_react.png",
+    "title": "Dev E-commerce App",
+    "tags": ["redux crud"],
+    "filterCategory": ["reactjs"],
+    "link": "https://nimeshlathiya-devstore.netlify.app/"
   },
   {
     "id": 2,
-    "image": "/img/portfolio/crownfunding.png",
-    "title": "crownfunding",
-    "tags": ["React js", "nodejs"],
-    "filterCategory": ["blockchain"],
-    "link":"https://crownfunding.vercel.app/"
+    "image": "/img/portfolio/redux_crud.png",
+    "title": "Redux Crud App",
+    "tags": ["React js"],
+    "filterCategory": ["web"],
+    "link": "https://nimeshlathiy-reduc-crud-app.netlify.app/"
   },
   {
     "id": 3,
-    "image": "/img/portfolio/jobsift.png",
-    "title": "job shift",
-    "tags": ["React native", "expo"],
-    "filterCategory": ["mobile"],
-    "link":"https://expo.dev/accounts/milan_katira/projects/jobsift/builds/53e7ed4f-50db-4a0c-a1da-e88e11bb6036"
-
+    "image": "/img/portfolio/baung_company.png",
+    "title": "Baung.in | Company",
+    "tags": ["React js"],
+    "filterCategory": ["reactjs"],
+    "link": "https://buang-nimeshlathiya.netlify.app/"
   },
   {
     "id": 4,
@@ -30,14 +29,22 @@
     "title": "word hunt",
     "tags": ["React js"],
     "filterCategory": ["web"],
-    "link":"https://wordsearch-milankatira.netlify.app/"
+    "link": "https://nimeshlathiya.github.io/word-search/"
   },
   {
     "id": 5,
-    "image": "/img/portfolio/expanse tracker.png",
-    "title": "expense tracker",
+    "image": "/img/portfolio/dice_react.png",
+    "title": "Dice Game",
     "tags": ["React js"],
     "filterCategory": ["web"],
-    "link":"https://expense-tracker-milankatira.netlify.app/"
+    "link": "https://dicegame-nimeshlathiya.netlify.app/"
+  },
+  {
+    "id": 5,
+    "image": "/img/portfolio/password_generator.png",
+    "title": "Password Generator",
+    "tags": ["React js"],
+    "filterCategory": ["reactjs"],
+    "link": "https://passwordgenerator-nimeshlathiya.netlify.app/"
   }
 ]
