@@ -1,6 +1,6 @@
 {
-  "name": "milan_katira_portfolio",
-  "private": true,
+  "name": "nimesh_lathiya_portfolio",
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "anayzed": "cross-env ANALYZE=true next build",
