@@ -23,7 +23,7 @@ const PortfolioCustomColumn = ({
   return (
     <section className="portfolio section-padding pb-70">
       {!hideSectionTitle && (
-        <div className="container">
+        <div className="container" id="portfolio">
           <div className="sec-head custom-font">
             <h6 className="wow fadeIn" data-wow-delay=".5s">
               Portfolio

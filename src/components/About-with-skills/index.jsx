@@ -6,7 +6,7 @@ const AboutWithSkills = () => {
     heroSkillsProgress();
   }, []);
   return (
-    <div className="hero-sec section-padding">
+    <div className="hero-sec section-padding"  id='about'>
       <div className="container">
         <div className="row">
           <div className="col-lg-6">

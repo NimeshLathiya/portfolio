@@ -6,7 +6,15 @@ const Footer = () => {
     <footer className="footer-half sub-bg section-padding pb-0">
       <div className="container">
         <div className="row">
-          <div className="col-lg-10">
+          <div className="col-12 d-flex justify-content-between flex-row ">
+            <div className="footer-info cont">
+              <p style={{ fontSize: "16px" }}>
+                <b>Thanks for stopping by ッ</b>
+              </p>
+              <p style={{ fontSize: "16px" }}>
+                <b>© {new Date().getFullYear()} Nimesh Lathiya.</b>
+              </p>
+            </div>
             <div className="cont">
               <div className="logo">
                 <a href="#0">NimeshLathiya</a>

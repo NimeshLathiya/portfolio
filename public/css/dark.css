@@ -143,6 +143,16 @@ span:hover {
   max-width: 1200px;
 }
 
+.footer-info{
+  display: block;
+}
+.footer-info p{
+  
+    color: #c8c8c8;
+    margin: 15px 0;
+}
+
+
 .custom-font {
   font-family: "Barlow Condensed", sans-serif;
 }
