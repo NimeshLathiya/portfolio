@@ -15,7 +15,7 @@ class MyDocument extends Document {
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <meta name="Nimesh Lathiya" content="Nimesh Lathiya portfolio" />
           <meta name="author" content="" />
-          <link rel="icon" href="/img/n.png" />
+          <link rel="icon" href="/img/nimeshLogo.png" />
 
           <link
             rel="preload"
